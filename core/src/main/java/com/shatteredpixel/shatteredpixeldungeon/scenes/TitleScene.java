@@ -131,7 +131,7 @@ public class TitleScene extends PixelScene {
 					@Override
 					protected void onSelect(int index) {
 						if (index == 0){
-							DeviceCompat.openURI("https://www.patreon.com/ShatteredPixel");
+							DeviceCompat.openURI("Place Patreon here");
 						} else {
 							hide();
 						}

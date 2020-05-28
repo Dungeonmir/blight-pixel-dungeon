@@ -36,12 +36,13 @@ import com.watabou.utils.DeviceCompat;
 
 public class AboutScene extends PixelScene {
 
-	private static final String TTL_SHPX = "Shattered Pixel Dungeon";
+	private static final String TTL_SHPX = "Blight Pixel Dungeon";
 
 	private static final String TXT_SHPX =
-			"Design, Code, & Graphics: Evan";
+			"Design, Code, & Graphics: " +
+					"place names here";
 
-	private static final String LNK_SHPX = "ShatteredPixel.com";
+	private static final String LNK_SHPX = "Our site will be here";
 
 	private static final String TTL_WATA = "Pixel Dungeon";
 
