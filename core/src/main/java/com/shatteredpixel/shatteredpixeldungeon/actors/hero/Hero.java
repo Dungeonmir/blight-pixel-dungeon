@@ -229,6 +229,7 @@ public class Hero extends Char {
 	}
 	public int STM() {
 		int STM = this.STM;
+
 		return STM;
 	}
 
